@@ -32,4 +32,12 @@ These are the Keebzord's layers
 
 ![Keebzord layer 2](assets/layer-2.png)
 
+### Instructions
 
+Upload the `keymap.json` to the [QMK Configurator](https://config.qmk.fm/#/dz60/LAYOUT)
+
+Compile and download the firmware.
+
+Flash it with [QMK Toolbox](https://qmk.fm/toolbox/)
+
+Or just use the `firmware.hex` in this repo
